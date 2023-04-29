@@ -1,5 +1,5 @@
 # aescbc
-A library for encrypting/decrypting data streams with AES-CBC in the Go programming language
+A library for encrypting/decrypting data streams with AES-CBC in the Go programming language.
 
 ## TL;DR
 So you want to encrypt a file with AES without reading the manual. Probably not the best idea, but here you go:
